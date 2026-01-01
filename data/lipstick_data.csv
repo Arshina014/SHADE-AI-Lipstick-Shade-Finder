@@ -1,0 +1,208 @@
+brand,shade_name,hex_color,undertone
+Maybelline,Nude Nuance,#C87B5A,Warm
+Maybelline,Nude Embrace,#C98A6E,Neutral
+Maybelline,Peachy Nude,#E1A684,Neutral
+Maybelline,Rosy Nude,#C07A8C,Cool
+Maybelline,Beige Babe,#D4AF8E,Neutral
+Maybelline,Caramel Kiss,#C58B6A,Warm
+Maybelline,Almond Nude,#B98A6E,Warm
+Maybelline,Soft Taupe,#A57C6E,Neutral
+Maybelline,Dusty Mauve,#B08FA5,Neutral
+Maybelline,Mauve Flush,#A86A8A,Cool
+Maybelline,Pink Brown,#B76A5A,Warm
+Maybelline,Mocha Nude,#7C4A32,Warm
+Maybelline,Toasted Nude,#8C5A42,Warm
+Maybelline,Cinnamon Nude,#C6866A,Warm
+Maybelline,Clay Crush,#D8A47F,Neutral
+
+Lakme,Nude Cushion,#C6866A,Warm
+Lakme,Beige Nude,#D9B38C,Neutral
+Lakme,Peach Beige,#E2A88C,Neutral
+Lakme,Rosy Beige,#C38D7C,Cool
+Lakme,Caramel Beige,#C58A6A,Warm
+Lakme,Soft Nude Brown,#B07A5A,Warm
+Lakme,Mocha Nude,#7A3E2F,Warm
+Lakme,Coffee Nude,#6F3B2A,Warm
+Lakme,Mauve Nude,#B08FA5,Neutral
+Lakme,Dusty Rose Nude,#C07A8C,Cool
+Lakme,Pink Taupe,#B58FA8,Neutral
+Lakme,Brown Sugar,#8B4A32,Warm
+Lakme,Almond Latte,#B98A6E,Warm
+Lakme,Toffee Cream,#CFA47E,Neutral
+
+MAC,Velvet Teddy,#C18A6B,Warm
+MAC,Velvet Teddy Deep,#B07A5E,Warm
+MAC,Taupe,#A57C6E,Neutral
+MAC,Taupe Warm,#9A6A5A,Warm
+MAC,Whirl,#B07A85,Neutral
+MAC,Whirl Pink,#C48A8E,Neutral
+MAC,Mocha,#7C4A32,Warm
+MAC,Mocha Soft,#8A5A42,Warm
+MAC,Mehr,#B45A6E,Cool
+MAC,Mehr Mauve,#A86A8A,Cool
+MAC,Beige Bliss,#D2AA8A,Neutral
+MAC,Rose Nude,#C98CA2,Cool
+MAC,Brown Velvet,#6F3B2A,Warm
+
+Sugar,Smokey Nude,#B07A5E,Warm
+Sugar,Smokey Nude Light,#C18A6B,Neutral
+Sugar,Smokey Nude Deep,#9A5A3B,Warm
+Sugar,Peach Nude,#E1A47F,Neutral
+Sugar,Peach Nude Warm,#E2A88C,Warm
+Sugar,Mauve Nude,#B18CA5,Neutral
+Sugar,Mauve Nude Pink,#C48A9E,Cool
+Sugar,Brown Sugar Nude,#8A4A3A,Warm
+Sugar,Caramel Latte,#C58B6A,Warm
+Sugar,Toffee Taupe,#A57C6E,Neutral
+Sugar,Rosewood Nude,#B76A7C,Cool
+Sugar,Almond Beige,#D4AF8E,Neutral
+
+Nykaa,Chai Nude,#C89A78,Warm
+Nykaa,Chai Nude Light,#D9B38C,Neutral
+Nykaa,Chai Nude Deep,#B07A5A,Warm
+Nykaa,Rose Latte,#C07A8C,Cool
+Nykaa,Rose Latte Soft,#D1A0B2,Cool
+Nykaa,Mauve Mocha,#B08FA5,Neutral
+Nykaa,Mauve Mocha Warm,#A57C6E,Warm
+Nykaa,Toffee Nude,#CFA47E,Neutral
+Nykaa,Toffee Nude Brown,#8A4F3A,Warm
+Nykaa,Peach Bloom,#E1A98A,Neutral
+Nykaa,Dusty Mauve,#B38A9E,Neutral
+Nykaa,Soft Rosewood,#C48A8E,Cool
+
+Swiss Beauty,Bare Nude,#C89B7B,Warm
+Swiss Beauty,Soft Nude,#D4AF8E,Neutral
+Swiss Beauty,Caramel Nude,#CFA47E,Neutral
+Swiss Beauty,Brandy Brown,#7A3E2F,Warm
+Swiss Beauty,Rosy Mauve,#B38A9E,Neutral
+Swiss Beauty,Dusty Pink,#C89CB0,Neutral
+Swiss Beauty,Coffee Brown,#7B3E2E,Warm
+Swiss Beauty,Almond Beige,#D2AA8A,Neutral
+
+Mamaearth,Nude Glow,#C58C6D,Warm
+Mamaearth,Peach Nude,#E3B38E,Neutral
+Mamaearth,Rosewood Nude,#B75C6E,Cool
+Mamaearth,Mocha Brown,#7C4A32,Warm
+Mamaearth,Caramel Pink,#C98C82,Neutral
+Mamaearth,Soft Taupe,#A57C6E,Neutral
+
+Faces Canada,Spiced Latte,#8A4F3A,Warm
+Faces Canada,Dusty Nude,#D1A985,Neutral
+Faces Canada,Subtle Mauve,#B38BA2,Neutral
+Faces Canada,Wrapped Up,#C99A72,Warm
+Faces Canada,Deep Rose,#9E2F50,Cool
+Faces Canada,Peach Latte,#E1A684,Neutral
+
+Mars Cosmetics,Nude Flirt,#D2A37E,Neutral
+Mars Cosmetics,Cinnamon Nude,#C58A6A,Warm
+Mars Cosmetics,Chocolate Brown,#6A3A28,Warm
+Mars Cosmetics,Pink Please,#C64A7A,Cool
+Mars Cosmetics,Mauve Dream,#B58FA8,Neutral
+Mars Cosmetics,Toffee Brown,#7A432E,Warm
+
+Blue Heaven,Brick Beauty,#8C4A35,Warm
+Blue Heaven,Toffee Nude,#D0A77E,Neutral
+Blue Heaven,Rose Petal,#C35A7D,Cool
+Blue Heaven,Coffee Brown,#7B3E2E,Warm
+Blue Heaven,Dusty Pink,#C89CB0,Neutral
+Blue Heaven,Beige Latte,#D9B38C,Neutral
+
+Insight,Nude Coffee,#C9A27C,Neutral
+Insight,Coffee Command,#6F3B2A,Warm
+Insight,Peach Buff,#E2A67F,Neutral
+Insight,Pink Alert,#C13F6D,Cool
+Insight,Chocolate Truffle,#5C2F23,Warm
+Insight,Rose Beige,#C38D7C,Cool
+
+Kay Beauty,Bare Soul,#D2AA8A,Neutral
+Kay Beauty,Toast Nude,#C58B6A,Warm
+Kay Beauty,Spiced Wine,#6B2A3E,Cool
+Kay Beauty,Mocha Melt,#7A3F2E,Warm
+Kay Beauty,Rosewood Nude,#C18A8C,Neutral
+Kay Beauty,Dusty Peach,#E2B18C,Neutral
+
+Huda Beauty,Interview,#B26A7A,Cool
+Huda Beauty,Trendsetter,#9A5A3A,Warm
+Huda Beauty,Icon,#6A1E2C,Cool
+Huda Beauty,Power Nude,#C89A7C,Neutral
+Huda Beauty,Third Date,#A24A3A,Warm
+Huda Beauty,Muse,#B38A9E,Neutral
+Huda Beauty,Graduate,#D1A77E,Neutral
+
+NYX,Abu Dhabi,#C48A6E,Warm
+NYX,Cannes,#B27A7A,Neutral
+NYX,Stockholm,#E1A0A5,Cool
+NYX,Zurich,#D9A2A2,Neutral
+NYX,Berlin,#6F3A2E,Warm
+NYX,London,#B25A6E,Cool
+
+LOréal,Maple Mocha,#8A4F3A,Warm
+LOréal,Rosewood,#C07A8C,Cool
+LOréal,Chocolate Truffle,#6A3A28,Warm
+LOréal,Peach Blossom,#E3A88E,Neutral
+LOréal,Cinnamon Toast,#C58A6A,Warm
+LOréal,Mauve Crush,#B08FA5,Neutral
+
+Revlon,Rum Raisin,#6A2A3A,Cool
+Revlon,Toast of New York,#8A4A3A,Warm
+Revlon,Pink in the Afternoon,#E1A0B2,Cool
+Revlon,Bare Affair,#CFA47E,Neutral
+Revlon,Chocolate Velvet,#6F3B2A,Warm
+Revlon,Plum Velour,#7A2E4A,Cool
+
+MyGlamm,Manish Malhotra Nude Dream,#C58A6A,Neutral
+MyGlamm,Manish Malhotra Soft Rose,#C66A85,Cool
+MyGlamm,Manish Malhotra Cinnamon Nude,#B06A4A,Warm
+MyGlamm,Ultimatte Mocha Love,#7A4A2E,Warm
+MyGlamm,Ultimatte Mauve Magic,#8A5A78,Cool
+MyGlamm,Ultimatte Peach Perfect,#E59A7A,Warm
+MyGlamm,Lit Creamy Nude,#D8A07A,Neutral
+
+Just Herbs,Soft Nude,#D2A679,Neutral
+Just Herbs,Peachy Coral,#E28B6F,Warm
+Just Herbs,Blush Pink,#C76A85,Cool
+Just Herbs,Mauve Rose,#9A5A76,Cool
+Just Herbs,Cinnamon Nude,#B06A4A,Warm
+Just Herbs,Earthy Brown,#7A4E2F,Warm
+
+Elle 18,Nude Fix,#D8B48A,Neutral
+Elle 18,Coral Pop,#E5735C,Warm
+Elle 18,Pink Kiss,#D16C8A,Cool
+Elle 18,Berry Blast,#7A2E4A,Cool
+Elle 18,Mocha Shot,#8B5A3C,Warm
+Elle 18,Rosy Nude,#C88A8A,Neutral
+
+Colorbar,Velvet Nude,#C58C6D,Neutral
+Colorbar,Deep Rose,#B04A6A,Cool
+Colorbar,Mocha Brown,#7B4A2E,Warm
+Colorbar,Mauve Madness,#8E5A78,Cool
+Colorbar,Peach Blossom,#E6A27A,Warm
+Colorbar,Caramel Kiss,#C07A4A,Warm
+Colorbar,Plum Desire,#5E2B44,Cool
+
+Renee,Fab 5 Nude,#C89A7A,Neutral
+Renee,Fab 5 Peach Nude,#E1A684,Warm
+Renee,Fab 5 Rosy Nude,#C07A8C,Cool
+Renee,Fab 5 Cinnamon Nude,#B06A4A,Warm
+Renee,Fab 5 Beige Nude,#D8B48A,Neutral
+
+Renee,Stay With Me Mocha,#7A4A2E,Warm
+Renee,Stay With Me Coffee Brown,#6F3B2A,Warm
+Renee,Stay With Me Rosewood,#B76A7C,Cool
+Renee,Stay With Me Mauve,#9A5A76,Cool
+Renee,Stay With Me Nude Pink,#D18AA2,Neutral
+
+Renee,Matte Finish Nude Brown,#8A5A3A,Warm
+Renee,Matte Finish Peach Beige,#E2A88C,Neutral
+Renee,Matte Finish Dusty Rose,#C48A9E,Cool
+Renee,Matte Finish Caramel Nude,#C58B6A,Warm
+
+Renee,Non Transfer Nude Latte,#CFA47E,Neutral
+Renee,Non Transfer Toasted Nude,#9A6A5A,Warm
+Renee,Non Transfer Soft Mauve,#B08FA5,Neutral
+Renee,Non Transfer Berry Wine,#7A2E4A,Cool
+
+Renee,Bold Matte Cherry Red,#9A2A2A,Cool
+Renee,Bold Matte Brick Red,#8C3A2F,Warm
+Renee,Bold Matte Plum Crush,#6A2A4E,Cool
+Renee,Bold Matte Brown Sugar,#7C4A32,Warm
