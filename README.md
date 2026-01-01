@@ -1,4 +1,4 @@
-# 💄 SHADE – AI Lipstick Shade Finder
+# 💄 SHADES – AI Lipstick Shade Finder
 
 An AI-powered web application that recommends the best lipstick shades based on facial undertone analysis.
 
