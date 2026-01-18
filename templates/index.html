@@ -169,7 +169,6 @@
     font-size:14px;
 ">
 
-    {% endif %}
     <div>
 </div>
 </div>
@@ -201,6 +200,7 @@
                 i = (i + 1) % quotes.length;
             }, 4500);
         }
+ 
     });
 </script>
     </div>
@@ -218,9 +218,12 @@
     <span id="quoteText">
         Beauty begins the moment you choose yourself.
     </span>
-</div>
-<p style="font-size:11px; color:#777; margin-top:10px;">
+    <p style="font-size:11px; color:#777; margin-top:1px;">
 Shade preview is an approximate digital representation.
+    {% endif %}
+    
+</div>
+
 </p>
 </body>
 </html>
