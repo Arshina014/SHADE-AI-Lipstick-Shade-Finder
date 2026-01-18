@@ -1,20 +1,20 @@
 # 💄 SHADES – AI Lipstick Shade Finder
 
-An AI-powered web application that recommends the best lipstick shades based on facial undertone analysis.
+SHADES is an AI-powered web application that recommends lipstick shades based on facial image analysis.
 
-## ✨ Features
-- Image-based skin undertone detection
-- Lighting normalization for better accuracy
-- Brand-based lipstick recommendations
-- Clean, responsive UI
+## Features
+- Skin tone & undertone analysis
+- Lighting correction for better accuracy
+- Personalized lipstick shade recommendations
+- Simple image upload interface
 
-## 🛠 Tech Stack
-- Python (Flask)
+## Tech Stack
+- Python
+- Flask
 - OpenCV
-- Machine Learning
-- HTML, CSS
+- NumPy
+- HTML & CSS
+- Render (Deployment)
 
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-python app.py
+## Live Demo
+https://shade-ai-lipstick-shade-finder.onrender.com
